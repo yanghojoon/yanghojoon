@@ -1,5 +1,4 @@
 # iOS 커리어 스타터 캠프 
-🐻 [야곰 아카데미 링크](https://www.yagom-academy.kr/)
 
 ### 🏃 시작일: 21. 10. 04
 |No|Project|Step 1|Step 2|Step 3|Team|Reviewer|

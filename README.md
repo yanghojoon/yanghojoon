@@ -3,12 +3,16 @@
 ### 🏃 시작일: 21. 10. 04
 |No|Project|Step 1|Step 2|Step 3|Team|Reviewer|
 |--|-------|------|------|------|----|--------|
-|4|계산기|[PR](https://github.com/yagom-academy/ios-calculator-app/pull/61)|[PR](https://github.com/yagom-academy/ios-calculator-app/pull/98)|[PR]()|-|@GREENOVER|
+|4|계산기|[PR](https://github.com/yagom-academy/ios-calculator-app/pull/61)|[PR](https://github.com/yagom-academy/ios-calculator-app/pull/98)|[PR](https://github.com/yagom-academy/ios-calculator-app/pull/123)|-|@GREENOVER|
 |3|쥬스메이커|[PR](https://github.com/yagom-academy/ios-juice-maker/pull/112)|[PR](https://github.com/yagom-academy/ios-juice-maker/pull/130)|[PR](https://github.com/yagom-academy/ios-juice-maker/pull/143)|@vayne77|@corykim0829|
 |2|가위바위보|[PR](https://github.com/yagom-academy/ios-rock-paper-scissors/pull/85)|[PR](https://github.com/yagom-academy/ios-rock-paper-scissors/pull/96)|-|@wooyani77|@shapiro711|
 |1|숫자야구|[PR](https://github.com/yagom-academy/ios-number-baseball/pull/53)|[PR](https://github.com/yagom-academy/ios-number-baseball/pull/65)|-|@Kim-EunsooSilver|@Wody95|
 
 ### 🗒️ 프로젝트 자세히 보기
+3. 계산기
+- 🗓 기간 : 2021.11.08 ~ 2021.11.19
+- 🗃️ [계산기 레포](https://github.com/yanghojoon/ios-calculator-app/tree/Step-3)
+
 3. 쥬스 메이커
 - 🗓 기간 : 2021.10.18 ~ 2021.11.05
 - 🗃️ [쥬스메이커 레포](https://github.com/yanghojoon/ios-juice-maker/tree/4-yanghojoon)

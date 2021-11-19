@@ -9,7 +9,7 @@
 |1|숫자야구|[PR](https://github.com/yagom-academy/ios-number-baseball/pull/53)|[PR](https://github.com/yagom-academy/ios-number-baseball/pull/65)|-|@Kim-EunsooSilver|@Wody95|
 
 ### 🗒️ 프로젝트 자세히 보기
-3. 계산기
+4. 계산기
 - 🗓 기간 : 2021.11.08 ~ 2021.11.19
 - 🗃️ [계산기 레포](https://github.com/yanghojoon/ios-calculator-app/tree/Step-3)
 

@@ -11,7 +11,7 @@
 ### 🗒️ 프로젝트 자세히 보기
 4. 계산기
 - 🗓 기간 : 2021.11.08 ~ 2021.11.19
-- 🗃️ [계산기 레포](https://github.com/yanghojoon/ios-calculator-app/tree/Step-3)
+- 🗃️ [계산기 레포](https://github.com/yanghojoon/ios-calculator-app)
 
 3. 쥬스 메이커
 - 🗓 기간 : 2021.10.18 ~ 2021.11.05

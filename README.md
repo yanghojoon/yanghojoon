@@ -1,5 +1,5 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yanghojoon&show_icons=true&theme=radical)
-
+## 🛠️ Tech Skills 🛠️
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-222222?style=flat-square&logo=Apple&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
 
 # iOS 커리어 스타터 캠프 
 
@@ -28,4 +28,3 @@
 1. 숫자야구
 - 🗓 기간 : 2021.10.04 ~ 2021.10.08
 - 🗃️ [숫자야구 레포](https://github.com/yanghojoon/ios-number-baseball)
-

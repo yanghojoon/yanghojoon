@@ -13,9 +13,9 @@
 
 ### 🗒️ 프로젝트 자세히 보기
 4. 계산기
-- 🗓 기간 : 2021.11.08 ~ 2021.11.19 / 2021.11.22 ~ 2021.11.26 (프로젝트 리팩토링 및 병합)
+- 🗓 기간 : 개인 - 2021.11.08 ~ 2021.11.19 / 모둠 - 2021.11.22 ~ 2021.11.26 (프로젝트 리팩토링 및 병합)
 - 🗃️ [계산기 레포](https://github.com/yanghojoon/ios-calculator-app)
-- 🗃️ [계산기 리팩토링 레포](https://github.com/forestjae/ios-calculator-app/tree/step4)
+- 🗃️ [계산기 리팩토링 레포](https://github.com/forestjae/ios-calculator-app/tree/step5)
 
 3. 쥬스 메이커
 - 🗓 기간 : 2021.10.18 ~ 2021.11.05

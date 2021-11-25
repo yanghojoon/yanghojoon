@@ -6,7 +6,7 @@
 ### 🏃 시작일: 21. 10. 04
 |No|Project|Step 1|Step 2|Step 3|Step 4|Step 5|Team|Reviewer|
 |--|-------|------|------|------|------|------|----|--------|
-|4|계산기|[PR](https://github.com/yagom-academy/ios-calculator-app/pull/61)|[PR](https://github.com/yagom-academy/ios-calculator-app/pull/98)|[PR](https://github.com/yagom-academy/ios-calculator-app/pull/123)|[PR](https://github.com/yagom-academy/ios-calculator-app/pull/136)|-|[@forestjae](https://github.com/forestjae)|[@GREENOVER](https://github.com/GREENOVER)|
+|4|계산기|[PR](https://github.com/yagom-academy/ios-calculator-app/pull/61)|[PR](https://github.com/yagom-academy/ios-calculator-app/pull/98)|[PR](https://github.com/yagom-academy/ios-calculator-app/pull/123)|[PR](https://github.com/yagom-academy/ios-calculator-app/pull/136)|[PR](https://github.com/yagom-academy/ios-calculator-app/pull/148)|[@forestjae](https://github.com/forestjae)|[@GREENOVER](https://github.com/GREENOVER)|
 |3|쥬스메이커|[PR](https://github.com/yagom-academy/ios-juice-maker/pull/112)|[PR](https://github.com/yagom-academy/ios-juice-maker/pull/130)|[PR](https://github.com/yagom-academy/ios-juice-maker/pull/143)|-|-|[@vayne77](https://github.com/vayne77)|[@corykim0829](https://github.com/corykim0829)|
 |2|가위바위보|[PR](https://github.com/yagom-academy/ios-rock-paper-scissors/pull/85)|[PR](https://github.com/yagom-academy/ios-rock-paper-scissors/pull/96)|-|-|-|[@wooyani77](https://github.com/wooyani77)|[@shapiro711](https://github.com/shapiro711)|
 |1|숫자야구|[PR](https://github.com/yagom-academy/ios-number-baseball/pull/53)|[PR](https://github.com/yagom-academy/ios-number-baseball/pull/65)|-|-|-|[@Kim-EunsooSilver](https://github.com/Kim-EunsooSilver)|[@Wody95](https://github.com/Wody95)|

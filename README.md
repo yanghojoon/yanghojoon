@@ -6,6 +6,7 @@
 ### 🏃 시작일: 21. 10. 04
 |No|Project|Step 1|Step 2|Step 3|Step 4|Step 5|Team|Reviewer|
 |--|-------|------|------|------|------|------|----|--------|
+|6|은행창구 매니저|[PR]()|[PR]()|[PR]()|-|-|[@ye-ha](https://github.com/ye-ha)|-|
 |5|만국박람회|[PR](https://github.com/yagom-academy/ios-exposition-universelle/pull/106)|[PR](https://github.com/yagom-academy/ios-exposition-universelle/pull/117)|[PR](https://github.com/yagom-academy/ios-exposition-universelle/pull/130)|-|-|[@just1103](https://github.com/just1103), [@ChaminLee](https://github.com/ChaminLee)|[@kcharliek](https://github.com/kcharliek)|
 |4|계산기|[PR](https://github.com/yagom-academy/ios-calculator-app/pull/61)|[PR](https://github.com/yagom-academy/ios-calculator-app/pull/98)|[PR](https://github.com/yagom-academy/ios-calculator-app/pull/123)|[PR](https://github.com/yagom-academy/ios-calculator-app/pull/136)|[PR](https://github.com/yagom-academy/ios-calculator-app/pull/148)|[@forestjae](https://github.com/forestjae)|[@GREENOVER](https://github.com/GREENOVER)|
 |3|쥬스메이커|[PR](https://github.com/yagom-academy/ios-juice-maker/pull/112)|[PR](https://github.com/yagom-academy/ios-juice-maker/pull/130)|[PR](https://github.com/yagom-academy/ios-juice-maker/pull/143)|-|-|[@vayne77](https://github.com/vayne77)|[@corykim0829](https://github.com/corykim0829)|
@@ -13,6 +14,10 @@
 |1|숫자야구|[PR](https://github.com/yagom-academy/ios-number-baseball/pull/53)|[PR](https://github.com/yagom-academy/ios-number-baseball/pull/65)|-|-|-|[@Kim-EunsooSilver](https://github.com/Kim-EunsooSilver)|[@Wody95](https://github.com/Wody95)|
 
 ### 🗒️ 프로젝트 자세히 보기
+6. 은행창구매니저 
+- 🗓 기간 : 2021.12.20 ~ 2021.12.31
+- 🗃️ [은행창구매니저 레포]()
+
 5. 만국박람회 
 - 🗓 기간 : 2021.12.06 ~ 2021.12.17
 - 🗃️ [만국박람회 레포](https://github.com/yanghojoon/ios-Exposition1900)

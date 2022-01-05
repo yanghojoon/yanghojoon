@@ -6,6 +6,7 @@
 ### 🏃 시작일: 21. 10. 04
 |No|Project|Step 1|Step 2|Step 3|Step 4|Step 5|Team|Reviewer|
 |--|-------|------|------|------|------|------|----|--------|
+|7|오픈마켓|[PR](https://github.com/yagom-academy/ios-open-market/pull/81)|[PR]()|[PR]()|[PR]()|[PR]()|[aCafela-coffee](https://github.com/aCafela-coffee)|[protocorn93](https://github.com/protocorn93)|
 |6|은행창구 매니저|[PR](https://github.com/yagom-academy/ios-bank-manager/pull/110)|[PR](https://github.com/yagom-academy/ios-bank-manager/pull/121)|[PR](https://github.com/yagom-academy/ios-bank-manager/pull/132)|[PR](https://github.com/yagom-academy/ios-bank-manager/pull/139)|-|[@ye-ha](https://github.com/ye-ha)|[@AppleCEO](https://github.com/AppleCEO)|
 |5|만국박람회|[PR](https://github.com/yagom-academy/ios-exposition-universelle/pull/106)|[PR](https://github.com/yagom-academy/ios-exposition-universelle/pull/117)|[PR](https://github.com/yagom-academy/ios-exposition-universelle/pull/130)|-|-|[@just1103](https://github.com/just1103), [@ChaminLee](https://github.com/ChaminLee)|[@kcharliek](https://github.com/kcharliek)|
 |4|계산기|[PR](https://github.com/yagom-academy/ios-calculator-app/pull/61)|[PR](https://github.com/yagom-academy/ios-calculator-app/pull/98)|[PR](https://github.com/yagom-academy/ios-calculator-app/pull/123)|[PR](https://github.com/yagom-academy/ios-calculator-app/pull/136)|[PR](https://github.com/yagom-academy/ios-calculator-app/pull/148)|[@forestjae](https://github.com/forestjae)|[@GREENOVER](https://github.com/GREENOVER)|
@@ -14,6 +15,10 @@
 |1|숫자야구|[PR](https://github.com/yagom-academy/ios-number-baseball/pull/53)|[PR](https://github.com/yagom-academy/ios-number-baseball/pull/65)|-|-|-|[@Kim-EunsooSilver](https://github.com/Kim-EunsooSilver)|[@Wody95](https://github.com/Wody95)|
 
 ### 🗒️ 프로젝트 자세히 보기
+7. 오픈마켓
+- 🗓 기간 : 2022.01.03 ~ 2022.01.14
+- 🗃️ [오픈마켓 레포]()
+
 6. 은행창구매니저 
 - 🗓 기간 : 2021.12.20 ~ 2021.12.31
 - 🗃️ [은행창구매니저 레포](https://github.com/yanghojoon/iOS-BankManager)

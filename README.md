@@ -6,6 +6,7 @@
 ### 🏃 시작일: 21. 10. 04
 |No|Project|Step 1|Step 2|Step 3|Step 4|Step 5|Team|Reviewer|
 |--|-------|------|------|------|------|------|----|--------|
+|9|프로젝트 매니저|[PR]()|[PR]()|[PR]()|[PR]()|[PR]()|-|[@kcharliek](https://github.com/kcharliek)|
 |8|동기화 메모장|[PR](https://github.com/yagom-academy/ios-cloud-notes/pull/75)|[PR](https://github.com/yagom-academy/ios-cloud-notes/pull/85)|[PR](https://github.com/yagom-academy/ios-cloud-notes/pull/100)|-|-|[YohanBlessYou](https://github.com/YohanBlessYou), [ICS-ASAN](https://github.com/ICS-Asan)|[ryan-son](https://github.com/ryan-son)|
 |7|오픈마켓|[PR](https://github.com/yagom-academy/ios-open-market/pull/81)|[PR](https://github.com/yagom-academy/ios-open-market/pull/95)|[PR](https://github.com/yagom-academy/ios-open-market/pull/117)|[PR](https://github.com/yagom-academy/ios-open-market/pull/132)|-|[aCafela-coffee](https://github.com/aCafela-coffee)|[protocorn93](https://github.com/protocorn93)|
 |6|은행창구 매니저|[PR](https://github.com/yagom-academy/ios-bank-manager/pull/110)|[PR](https://github.com/yagom-academy/ios-bank-manager/pull/121)|[PR](https://github.com/yagom-academy/ios-bank-manager/pull/132)|[PR](https://github.com/yagom-academy/ios-bank-manager/pull/139)|-|[@ye-ha](https://github.com/ye-ha)|[@AppleCEO](https://github.com/AppleCEO)|
@@ -16,6 +17,10 @@
 |1|숫자야구|[PR](https://github.com/yagom-academy/ios-number-baseball/pull/53)|[PR](https://github.com/yagom-academy/ios-number-baseball/pull/65)|-|-|-|[@Kim-EunsooSilver](https://github.com/Kim-EunsooSilver)|[@Wody95](https://github.com/Wody95)|
 
 ### 🗒️ 프로젝트 자세히 보기
+9. 프로젝트 매니저
+- 🗓 기간 : 2022.02.28 ~ 2022.03.11
+- 🗃️ [프로젝트 매니저 레포]()
+
 8. 동기화 메모장 
 - 🗓 기간 : 2022.02.07 ~ 2022.02.25
 - 🗃️ [동기화 메모장 레포](https://github.com/yanghojoon/ios-cloud-notes)

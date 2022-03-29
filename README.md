@@ -1,3 +1,6 @@
+![header](https://capsule-render.vercel.app/api?type=Rounded&color=auto&height=200&section=header&text=Hojoon%20&fontSize=90)
+
+
 ## 🛠️ Tech Skills 🛠️
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-222222?style=flat-square&logo=Apple&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
 

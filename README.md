@@ -7,5 +7,5 @@
 - 🖥 2021.08 ~ 2021.09 야곰아카데미 Code Starter Camp
 
 ## 😃 About Me
-- 🗃 Tech Blog <br>
+- 꾸준히 개발 블로그를 작성하고 있습니다 <br>
 <a href="https://ho8487.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://ho8487.tistory.com/"/></a>

@@ -18,4 +18,4 @@
 - 링크드인 <br>
 <a href="https://www.linkedin.com/in/%ED%98%B8%EC%A4%80-%EC%96%91-91890b213/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/%ED%98%B8%EC%A4%80-%EC%96%91-91890b213/"/></a>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yanghojoon)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yanghojoon&count_private=true)](https://github.com/anuraghazra/github-readme-stats)

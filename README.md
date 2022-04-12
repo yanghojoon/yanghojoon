@@ -7,9 +7,12 @@
 - ✏ 공부 중이에요 <br>
 ![Rx](https://img.shields.io/badge/RxSwift%20&%20RxCocoa-B7178C?style=flat-square&logo=ReactiveX&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black)
 
-## 🚴 Career
-- 🖥 2021.10 ~ 2022.04 야곰아카데미 [Career Starter Camp](https://github.com/yanghojoon/yanghojoon/tree/main/yagomCamp)
+## 🚴 Career & Experience
 - 🏢 2021.05 ~ 2021.10 코드스테이츠 커리어팀 Operation Manager
+- 🏢 2019.09 ~ 2019.12 더라이징스타 HR3팀 인턴(산학협력 현장실습)
+
+## 📝 Education
+- 🖥 2021.10 ~ 2022.04 야곰아카데미 [Career Starter Camp](https://github.com/yanghojoon/yanghojoon/tree/main/yagomCamp)
 - 🖥 2021.08 ~ 2021.09 야곰아카데미 Code Starter Camp
 
 ## 😃 About Me

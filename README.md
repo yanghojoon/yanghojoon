@@ -19,6 +19,7 @@
 ## 📝 Education
 - 🖥 2021.10 ~ 2022.04 야곰아카데미 [Career Starter Camp](https://github.com/yanghojoon/yanghojoon/tree/main/yagomCamp)
 - 🖥 2021.08 ~ 2021.09 야곰아카데미 Code Starter Camp
+- 👨🏻‍🎓 2014.03 ~ 2021.02 건국대학교 부동산학과 졸업
 
 ## 😃 About Me
 - 꾸준히 개발 블로그를 작성하고 있습니다 <br>

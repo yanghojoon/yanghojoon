@@ -7,8 +7,12 @@
 - ✏ 공부 중이에요 <br>
 ![Rx](https://img.shields.io/badge/RxSwift%20&%20RxCocoa-B7178C?style=flat-square&logo=ReactiveX&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black)
 
-## 🚴 Career & Experience
+## 🚴 Career
+- 🏢 2022.07 ~ 현재 재직 중 앵커리어 iOS 개발자 
+- 👨‍👦‍👦 2022.07 ~ 2022.08 넥스터즈(IT 연합 동아리) 21기
 - 🖥 2022.04 ~ 2022.05 야곰아카데미 Code Starter Camp 리뷰어
+
+## 🙋 Experience
 - 🏢 2021.05 ~ 2021.10 코드스테이츠 커리어팀 Operation Manager
 - 🏢 2019.09 ~ 2019.12 더라이징스타 HR3팀 인턴(산학협력 현장실습)
 

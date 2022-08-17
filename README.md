@@ -8,8 +8,8 @@
 ![Rx](https://img.shields.io/badge/RxSwift%20&%20RxCocoa-B7178C?style=flat-square&logo=ReactiveX&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black)
 
 ## 🚴 Career
-- 🏢 2022.07 ~ 현재 재직 중 앵커리어 iOS 개발자 
-- 👨‍👦‍👦 2022.07 ~ 2022.08 넥스터즈(IT 연합 동아리) 21기
+- 🏢 2022.07 ~ 재직 중 [앵커리어](https://anchoreer.oopy.io/87f4f339-2eea-4af4-95b4-668ad390b4ac) iOS 개발자 
+- 👨‍👦‍👦 2022.07 ~ 2022.08 [넥스터즈(IT 연합 동아리)](http://teamnexters.com/) 21기
 - 🖥 2022.04 ~ 2022.05 야곰아카데미 Code Starter Camp 리뷰어
 
 ## 🙋 Experience
@@ -18,7 +18,6 @@
 
 ## 📝 Education
 - 🖥 2021.10 ~ 2022.04 야곰아카데미 [Career Starter Camp](https://github.com/yanghojoon/yanghojoon/tree/main/yagomCamp)
-- 🖥 2021.08 ~ 2021.09 야곰아카데미 Code Starter Camp
 - 👨🏻‍🎓 2014.03 ~ 2021.02 건국대학교 부동산학과 졸업
 
 ## 😃 About Me

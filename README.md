@@ -8,9 +8,11 @@
 - 🏢 2022.07 ~ 재직 중 [앵커리어](https://anchoreer.oopy.io/87f4f339-2eea-4af4-95b4-668ad390b4ac) iOS 개발자 
 
 ## 🙋 Experience
-- 👨‍👦‍👦 2023.01 ~ 2023.03 [넥스터즈(IT 연합 동아리)](http://teamnexters.com/) 22기
-- 👨‍👦‍👦 2022.07 ~ 2022.08 [넥스터즈(IT 연합 동아리)](http://teamnexters.com/) 21기
-- 🖥 2022.04 ~ 2022.05 야곰아카데미 Code Starter Camp 리뷰어
+- 🧑‍🏫 2023.07 ~ 진행 중 (3개월 예정) 멋쟁이사자처럼 앱스쿨 3기 멘토링
+- 👨‍👦‍👦 2023.01 ~ 2023.03 (2개월) [넥스터즈(IT 연합 동아리)](http://teamnexters.com/) 22기
+- 🧑‍🏫 2022.12 ~ 2023.02 (3개월) 멋쟁이사자처럼 앱스쿨 1기 멘토
+- 👨‍👦‍👦 2022.07 ~ 2022.08 (2개월) [넥스터즈(IT 연합 동아리)](http://teamnexters.com/) 21기
+- 🖥 2022.04 ~ 2022.05 (1개월) 야곰아카데미 Code Starter Camp 리뷰어
 - 🏢 2021.05 ~ 2021.10 코드스테이츠 커리어팀 Operation Manager
 
 ## 📝 Education
@@ -22,8 +24,6 @@
 <a href="https://ho8487.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://ho8487.tistory.com/"/></a>
 - 링크드인 <br>
 <a href="https://www.linkedin.com/in/%ED%98%B8%EC%A4%80-%EC%96%91-91890b213/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/%ED%98%B8%EC%A4%80-%EC%96%91-91890b213/"/></a>
-- 경력기술서 <br>
-<a href="https://water-trouser-98b.notion.site/0d49f72cba364ea093bc3ab9d7936734?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://water-trouser-98b.notion.site/380d9afb03e945ddb15ed13c7c51bd7c"/></a>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yanghojoon&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
